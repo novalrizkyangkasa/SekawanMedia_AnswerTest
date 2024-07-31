@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1681057166147' stop='1681057412938'>
+    <name>Automation Test</name>
+    <title>Automation Test</title>
+    <test-cases>
+        <test-case start='1681057166148' status='passed' stop='1681057223154'>
+            <name>Verify on homepage</name>
+            <title>Verify on homepage</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1681057223163' status='broken' stop='1681057263627'>
+            <name>Add New Data Pemilih</name>
+            <title>Add New Data Pemilih</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Timed out retrying after 5000ms: `cy.wait()` timed out waiting `5000ms` for the 1st request to the route: `inputPemilih`. No request ever occurred.
+                
+                https://on.cypress.io/wait</message>
+                <stack-trace>CypressError: Timed out retrying after 5000ms: `cy.wait()` timed out waiting `5000ms` for the 1st request to the route: `inputPemilih`. No request ever occurred.
+                
+                https://on.cypress.io/wait
+                    at cypressErr (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:154824:18)
+                    at Object.errByPath (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:154879:10)
+                    at checkForXhr (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:141777:92)
+                    at &lt;unknown> (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:141800:28)
+                    at tryCatcher (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:8914:23)
+                    at Promise.attempt.Promise.try (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:6188:29)
+                    at whenStable (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:146742:65)
+                    at &lt;unknown> (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:146183:14)
+                    at tryCatcher (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:8914:23)
+                    at Promise._settlePromiseFromHandler (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:6849:31)
+                    at Promise._settlePromise (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:6906:18)
+                    at Promise._settlePromise0 (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:6951:10)
+                    at Promise._settlePromises (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:7031:18)
+                    at Promise._fulfill (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:6975:18)
+                    at &lt;unknown> (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:8589:46)
+                From Your Spec Code:
+                    at Context.eval (webpack:///./cypress/e2e/end2end.cy.js:324:11)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1681057263685' status='passed' stop='1681057285003'>
+            <name>Search User</name>
+            <title>Search User</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1681057285024' status='passed' stop='1681057323538'>
+            <name>Filter Data</name>
+            <title>Filter Data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1681057323559' status='broken' stop='1681057368806'>
+            <name>Edit Data</name>
+            <title>Edit Data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Timed out retrying after 5000ms: `cy.wait()` timed out waiting `5000ms` for the 1st request to the route: `inputPemilih`. No request ever occurred.
+                
+                https://on.cypress.io/wait</message>
+                <stack-trace>CypressError: Timed out retrying after 5000ms: `cy.wait()` timed out waiting `5000ms` for the 1st request to the route: `inputPemilih`. No request ever occurred.
+                
+                https://on.cypress.io/wait
+                    at cypressErr (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:154824:18)
+                    at Object.errByPath (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:154879:10)
+                    at checkForXhr (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:141777:92)
+                    at &lt;unknown> (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:141800:28)
+                    at tryCatcher (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:8914:23)
+                    at Promise.attempt.Promise.try (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:6188:29)
+                    at whenStable (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:146742:65)
+                    at &lt;unknown> (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:146183:14)
+                    at tryCatcher (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:8914:23)
+                    at Promise._settlePromiseFromHandler (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:6849:31)
+                    at Promise._settlePromise (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:6906:18)
+                    at Promise._settlePromise0 (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:6951:10)
+                    at Promise._settlePromises (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:7031:18)
+                    at Promise._fulfill (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:6975:18)
+                    at &lt;unknown> (https://aps-rejanglebong.skwn.dev/__cypress/runner/cypress_runner.js:8589:46)
+                From Your Spec Code:
+                    at Context.eval (webpack:///./cypress/e2e/end2end.cy.js:696:11)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1681057368889' status='passed' stop='1681057412938'>
+            <name>Import Data</name>
+            <title>Import Data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

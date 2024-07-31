@@ -1,0 +1,115 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1681058076225' stop='1681058128679'>
+    <name>Automation Test</name>
+    <title>Automation Test</title>
+    <test-cases>
+        <test-case start='1681058076225' status='passed' stop='1681058128660'>
+            <name>Verify on homepage</name>
+            <title>Verify on homepage</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1681058128676' status='pending' stop='1681058128676'>
+            <name>Add New Data Pemilih</name>
+            <title>Add New Data Pemilih</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1681058128676' status='undefined'>
+            <name>Add New Data Pemilih</name>
+            <title>Add New Data Pemilih</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1681058128677' status='pending' stop='1681058128677'>
+            <name>Search User</name>
+            <title>Search User</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1681058128677' status='undefined'>
+            <name>Search User</name>
+            <title>Search User</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1681058128677' status='pending' stop='1681058128677'>
+            <name>Filter Data</name>
+            <title>Filter Data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1681058128678' status='undefined'>
+            <name>Filter Data</name>
+            <title>Filter Data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1681058128678' status='pending' stop='1681058128678'>
+            <name>Edit Data</name>
+            <title>Edit Data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1681058128678' status='undefined'>
+            <name>Edit Data</name>
+            <title>Edit Data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1681058128679' status='pending' stop='1681058128679'>
+            <name>Import Data</name>
+            <title>Import Data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1681058128679' status='undefined'>
+            <name>Import Data</name>
+            <title>Import Data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
